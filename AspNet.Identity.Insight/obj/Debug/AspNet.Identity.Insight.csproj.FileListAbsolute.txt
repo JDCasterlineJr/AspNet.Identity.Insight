@@ -1,0 +1,17 @@
+C:\Users\JCasterline\Documents\Visual Studio 2013\Projects\AspNet.Identity.Insight\AspNet.Identity.Insight\obj\Debug\AspNet.Identity.Insight.csprojResolveAssemblyReference.cache
+C:\Users\JCasterline\Documents\Visual Studio 2013\Projects\AspNet.Identity.Insight\AspNet.Identity.Insight\bin\Debug\AspNet.Identity.Insight.dll.config
+C:\Users\JCasterline\Documents\Visual Studio 2013\Projects\AspNet.Identity.Insight\AspNet.Identity.Insight\bin\Debug\AspNet.Identity.Insight.dll
+C:\Users\JCasterline\Documents\Visual Studio 2013\Projects\AspNet.Identity.Insight\AspNet.Identity.Insight\bin\Debug\AspNet.Identity.Insight.pdb
+C:\Users\JCasterline\Documents\Visual Studio 2013\Projects\AspNet.Identity.Insight\AspNet.Identity.Insight\bin\Debug\Insight.Database.Configuration.dll
+C:\Users\JCasterline\Documents\Visual Studio 2013\Projects\AspNet.Identity.Insight\AspNet.Identity.Insight\bin\Debug\Insight.Database.dll
+C:\Users\JCasterline\Documents\Visual Studio 2013\Projects\AspNet.Identity.Insight\AspNet.Identity.Insight\bin\Debug\Insight.Database.Providers.Default.dll
+C:\Users\JCasterline\Documents\Visual Studio 2013\Projects\AspNet.Identity.Insight\AspNet.Identity.Insight\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JCasterline\Documents\Visual Studio 2013\Projects\AspNet.Identity.Insight\AspNet.Identity.Insight\bin\Debug\Insight.Database.pdb
+C:\Users\JCasterline\Documents\Visual Studio 2013\Projects\AspNet.Identity.Insight\AspNet.Identity.Insight\bin\Debug\Insight.Database.xml
+C:\Users\JCasterline\Documents\Visual Studio 2013\Projects\AspNet.Identity.Insight\AspNet.Identity.Insight\bin\Debug\Insight.Database.Configuration.pdb
+C:\Users\JCasterline\Documents\Visual Studio 2013\Projects\AspNet.Identity.Insight\AspNet.Identity.Insight\bin\Debug\Insight.Database.Configuration.xml
+C:\Users\JCasterline\Documents\Visual Studio 2013\Projects\AspNet.Identity.Insight\AspNet.Identity.Insight\bin\Debug\Insight.Database.Providers.Default.pdb
+C:\Users\JCasterline\Documents\Visual Studio 2013\Projects\AspNet.Identity.Insight\AspNet.Identity.Insight\bin\Debug\Insight.Database.Providers.Default.xml
+C:\Users\JCasterline\Documents\Visual Studio 2013\Projects\AspNet.Identity.Insight\AspNet.Identity.Insight\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JCasterline\Documents\Visual Studio 2013\Projects\AspNet.Identity.Insight\AspNet.Identity.Insight\obj\Debug\AspNet.Identity.Insight.dll
+C:\Users\JCasterline\Documents\Visual Studio 2013\Projects\AspNet.Identity.Insight\AspNet.Identity.Insight\obj\Debug\AspNet.Identity.Insight.pdb
